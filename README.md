@@ -35,6 +35,16 @@ Using a pre-built HX711 module in real life is much simpler. The module simplifi
 
 ---
 
+## 📸 Physical Prototype
+
+<p align="center">
+  <img src="media/scale-prototype.jpg" width="80%" alt="Breadboard prototype: Arduino Nano and I2C LCD showing A.E.A 0.00kg after taring">
+</p>
+
+Breadboard prototype built at the Automation & Engineering Academy (AEA): Arduino Nano driving the 16x2 LCD through the PCF8574 I2C backpack, showing the tared reading (**0.00 kg**).
+
+---
+
 ## ⚖️ Calibration Guide
 
 ### What is the Calibration Factor?
